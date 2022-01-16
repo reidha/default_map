@@ -1,6 +1,6 @@
 name: default_map
-description: Respect Python's collections.defaultdict
-version: 0.1.0
+description: Respect Python's collections.defaultdict. Users can specify a default value and this dictionary will not return null.
+version: 0.1.0+1
 homepage: https://reidha.github.io/
 repository: https://github.com/reidha/default_map
 
